@@ -1,0 +1,4 @@
+#!/media/liem/DATA/libc/keras2tensorflow/python3/bin/python
+# EASY-INSTALL-SCRIPT: 'numpy==1.14.5','f2py'
+__requires__ = 'numpy==1.14.5'
+__import__('pkg_resources').run_script('numpy==1.14.5', 'f2py')
